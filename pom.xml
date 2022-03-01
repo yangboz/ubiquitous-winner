@@ -53,7 +53,7 @@
         <spring.cloud-version>Hoxton.SR9</spring.cloud-version>
         <spring.cloud.alibaba.version>2.2.3.RELEASE</spring.cloud.alibaba.version>
         <mysql.version>8.0.21</mysql.version>
-        <mybatis.plus.version>3.4.1</mybatis.plus.version>
+        <mybatis.plus.version>3.5.1</mybatis.plus.version>
         <canal.version>1.1.4</canal.version>
         <jjwt.version>0.9.1</jjwt.version>
         <commons-dbutils.version>1.7</commons-dbutils.version>
